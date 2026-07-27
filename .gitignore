@@ -1,0 +1,7 @@
+## Ignore IDE and build files
+.gradle/
+.idea/
+local.properties
+build/
+*.iml
+.DS_Store

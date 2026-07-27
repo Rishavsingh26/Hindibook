@@ -47,13 +47,12 @@ import java.util.Random;
 
 public class MainActivity extends Activity 
 {
-	//static final String url =  "http://friended-correspond.000webhostapp.com/app/";	
-	static final String url = "http://localhost:8080/www/";
+	static final String url =  "http://friended-correspond.000webhostapp.com/app/";
 	static final String PACKAGE = "com.mycompany.frag";
 	static final float VERSION  = 1.8f;
 	static final long UP_TIME  = (15*24*60*60*1000);
 	
-	String loc = "http://www.000webhostapp.com/app/AudioBook.apk";
+	String loc = "AudioBook.apk";
 	String temp;
 	FrameLayout f1;
 	FragmentManager fm;
